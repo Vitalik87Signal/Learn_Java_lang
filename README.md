@@ -1,2 +1,2 @@
 # Learn_Java_lang
-Learn Java.lang
+Learn Java library and lang
